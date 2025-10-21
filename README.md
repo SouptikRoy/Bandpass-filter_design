@@ -19,6 +19,11 @@ This repository contains an LTspice (or generic SPICE) simulation of a configura
 - **Formulas**:
   - `C1 = Q/(R1*2*pi*f0)`
   - `L1 = 1/(C1*(2*pi*f0)^2)`
+ 
+    ![SPICE_Schematic](Bandpass.PNG)
+
+    ![Waveform](Waveform1.PNG)
+    ![Waveform](Waveform2.PNG)
 
 ## Usage
 
